@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "yajib.app — Food delivery platform",
+    "description": "A platform connecting restaurants, riders, and customers. Register your restaurant, work as a rider, or order your favorite food."
+  },
+  "stores": { "getItOn": "Get it on", "downloadOn": "Download on the" },
+  "header": {
+    "services": "Services",
+    "restaurants": "Restaurants",
+    "partners": "Partners",
+    "registerRestaurant": "Register your restaurant",
+    "beDriver": "Become a rider",
+    "login": "Log in",
+    "welcome": "Hi, {name} 👋"
+  },
+  "nav": { "dashboard": "Dashboard", "logout": "Logout", "login": "Login", "register": "Sign up" },
+  "status": {
+    "pending": "Pending", "accepted": "Accepted", "preparing": "Preparing",
+    "ready": "Ready for pickup", "assigned": "Assigned to rider", "delivering": "On the way",
+    "delivered": "Delivered", "cancelled": "Cancelled"
+  },
+  "hero": {
+    "tabs": {
+      "food": {
+        "label": "Food delivery",
+        "title": "Grab a bite",
+        "desc": "One click is all it takes to get your favorite meals delivered in under 30 minutes.",
+        "fieldLabel": "Delivery address",
+        "placeholder": "Enter your delivery address…",
+        "cta": "Show nearby restaurants"
+      },
+      "owner": {
+        "label": "For restaurants",
+        "title": "Take your restaurant further",
+        "desc": "Register your restaurant and get your own page on yajib.app with full menu and order management.",
+        "fieldLabel": "Restaurant name",
+        "placeholder": "e.g. Al-Asil Restaurant",
+        "cta": "Start registration"
+      },
+      "driver": {
+        "label": "Become a rider",
+        "title": "Earn with your bike",
+        "desc": "Receive nearby orders through our smart assignment algorithm and earn a commission per delivery.",
+        "fieldLabel": "Your city",
+        "placeholder": "e.g. Riyadh",
+        "cta": "Join as a rider"
+      }
+    }
+  },
+  "simplify": {
+    "titleStart": "Here to ",
+    "titleHighlight": "simplify",
+    "titleEnd": " your day",
+    "subtitle": "yajib is a super app that brings restaurants, riders, and customers together, with many services that make everyday life easier.",
+    "welcome": "Welcome,",
+    "welcomeQuestion": "What would you like today?",
+    "actions": ["Order food", "Order groceries", "Register your restaurant"],
+    "cta": "Get Started"
+  },
+  "services": {
+    "foodBadge": "Food delivery",
+    "foodTitle": "Order with peace of mind",
+    "foodF1Title": "Quick & easy",
+    "foodF1Desc": "One click in the app and your meal arrives in under 30 minutes, anytime.",
+    "foodF2Title": "Safe & secure",
+    "foodF2Desc": "All restaurants and riders are verified, and your order is tracked live on the map.",
+    "foodF3Title": "The right price",
+    "foodF3Desc": "The price is clear before you confirm — no surprises, no hidden fees.",
+    "driverBadge": "Rider partner",
+    "driverTitle": "Drive with us and earn",
+    "driverF1Title": "Be your own boss",
+    "driverF1Desc": "Work whenever it suits you, from any neighborhood in your city.",
+    "driverF2Title": "Easy to use",
+    "driverF2Desc": "All you need is the yajib app and your phone — start right away.",
+    "driverF3Title": "Earn more",
+    "driverF3Desc": "A commission on every order, and your income grows every month with smart assignment.",
+    "driverCta": "Sign up now"
+  },
+  "stats": {
+    "titleLine1": "yajib is growing fast.",
+    "titleLine2Start": "Really ",
+    "titleLine2Highlight": "fast.",
+    "items": [
+      { "value": "8M+", "label": "app downloads" },
+      { "value": "100k+", "label": "partners" },
+      { "value": "4k+", "label": "employees & riders" },
+      { "value": "45+", "label": "cities we operate in" }
+    ]
+  },
+  "restaurants": {
+    "badge": "Restaurants",
+    "title": "Available restaurants",
+    "count": "{count} restaurants",
+    "empty": "No restaurants yet. Be the first to register yours! 🎉",
+    "open": "Open",
+    "closed": "Closed",
+    "browseMenu": "Browse the menu"
+  },
+  "owners": {
+    "badge": "Restaurant owners",
+    "title": "Register your restaurant and grow",
+    "f1Title": "Your own page",
+    "f1Desc": "A yajib.app/r/your-restaurant link and a full digital menu for your brand.",
+    "f2Title": "Live management",
+    "f2Desc": "Manage orders and your menu directly from the dashboard, with zero hassle.",
+    "f3Title": "Delivery included",
+    "f3Desc": "Our riders deliver your dishes to customers without any effort from you.",
+    "cta": "Register for free"
+  },
+  "customers": {
+    "badge": "Customers",
+    "title": "Order in three taps",
+    "f1Title": "Browse & choose",
+    "f1Desc": "A wide variety of restaurants, from fast food to healthy options.",
+    "f2Title": "Track live",
+    "f2Desc": "From the kitchen to your door — follow your order on the map.",
+    "f3Title": "Nonstop deals",
+    "f3Desc": "Discounts and ratings help you choose right every time.",
+    "cta": "Start ordering"
+  },
+  "track": {
+    "onTheWay": "Your rider is on the way",
+    "etaLabel": "Estimated arrival",
+    "etaValue": "12 min",
+    "detailsCta": "Order details"
+  },
+  "join": {
+    "talentsTitle": "Talents",
+    "talentsDesc": "Join one of the fastest-growing delivery startups and work with an ambitious team.",
+    "talentsCta": "See openings",
+    "driversTitle": "Partners (riders)",
+    "driversDesc": "Start earning within days: sign up, quick training, and go.",
+    "driversCta": "Work with us",
+    "businessTitle": "Businesses",
+    "businessDesc": "Own a restaurant or store? Register with yajib and boost your sales from week one.",
+    "businessCta": "Register your business"
+  },
+  "moving": {
+    "groceryBadge": "Grocery — coming soon",
+    "groceryTitle": "Grocery shopping from home",
+    "groceryF1Title": "Fast & easy",
+    "groceryF1Desc": "Fill your basket with a few clicks and we'll bring it to your door.",
+    "groceryF2Title": "A wide variety",
+    "groceryF2Desc": "Food, bread, cleaning products, cosmetics — everything you need.",
+    "groceryF3Title": "Nonstop deals",
+    "groceryF3Desc": "Daily discounts and savings inside the app.",
+    "groceryCta": "Notify me at launch",
+    "fleetBadge": "Business solutions",
+    "fleetTitle": "A complete fleet system for your business",
+    "fleetF1Title": "Reliability",
+    "fleetF1Desc": "Our drivers move your employees safely and on time.",
+    "fleetF2Title": "A dashboard",
+    "fleetF2Desc": "Monitor and control your fleet from one easy place.",
+    "fleetF3Title": "Flexible cost",
+    "fleetF3Desc": "Set your budget and choose the service that fits you.",
+    "fleetCta": "Contact us",
+    "slogan": ["moving", "ahead", "together"]
+  },
+  "social": {
+    "title": "Follow yajib on social media",
+    "subtitle": "Follow us and be the first to know about deals, discounts, and new restaurants.",
+    "platforms": ["Facebook", "Instagram", "TikTok", "YouTube"]
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Our services",
+        "links": [
+          { "label": "Food delivery", "href": "/#services" },
+          { "label": "Restaurants", "href": "/#restaurants" },
+          { "label": "Grocery (soon)", "href": "/#business" }
+        ]
+      },
+      {
+        "title": "yajib",
+        "links": [
+          { "label": "About us", "href": "#" },
+          { "label": "Careers", "href": "#" },
+          { "label": "Contact us", "href": "#" }
+        ]
+      },
+      {
+        "title": "Work with us",
+        "links": [
+          { "label": "Register your restaurant", "href": "/register?role=owner" },
+          { "label": "Become a rider", "href": "/register?role=driver" },
+          { "label": "Business solutions", "href": "/#business" }
+        ]
+      }
+    ],
+    "country": "Algeria",
+    "language": "English",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "cookies": "Cookie Policy"
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "loginSubtitle": "Welcome back 👋",
+    "registerTitle": "Create an account",
+    "registerSubtitle": "Pick your account type and start in a minute",
+    "phone": "Phone number",
+    "phonePlaceholder": "05xxxxxxxx",
+    "password": "Password",
+    "name": "Full name",
+    "namePlaceholder": "e.g. Ahmed Mohamed",
+    "restaurantName": "Restaurant name",
+    "cuisine": "Cuisine type (e.g. grills, pizza)",
+    "login": "Log in",
+    "register": "Create account",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create one",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Log in",
+    "loginFailed": "Login failed",
+    "registerFailed": "Registration failed",
+    "roleCustomer": "Customer",
+    "roleOwner": "Restaurant owner",
+    "roleDriver": "Rider"
+  },
+  "rpage": {
+    "openNow": "Open now",
+    "closed": "Closed",
+    "emptyMenu": "The menu is empty for now.",
+    "loginLink": "Log in as a customer",
+    "loginPrompt": "to complete your order.",
+    "onlyCustomers": "Only customer accounts can place orders.",
+    "add": "Add",
+    "unavailable": "Unavailable",
+    "addressPlaceholder": "Delivery address (optional)",
+    "orderNow": "Order now",
+    "sending": "Sending…",
+    "sent": "Order sent",
+    "feeNote": "Delivery fees are added based on distance (Haversine algorithm).",
+    "orderFailed": "Failed to create the order",
+    "backToRestaurants": "All restaurants"
+  },
+  "ordersPage": {
+    "title": "My orders",
+    "subtitle": "Track your orders live, step by step.",
+    "empty": "No orders yet.",
+    "browse": "Browse restaurants",
+    "distance": "Distance",
+    "deliveryFee": "Delivery fee",
+    "total": "Total"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "yajib.app — Plateforme de livraison de repas",
+    "description": "Une plateforme reliant restaurants, livreurs et clients. Inscrivez votre restaurant, devenez livreur, ou commandez vos repas préférés."
+  },
+  "stores": { "getItOn": "Disponible sur", "downloadOn": "Télécharger dans" },
+  "header": {
+    "services": "Services",
+    "restaurants": "Restaurants",
+    "partners": "Partenaires",
+    "registerRestaurant": "Inscrire mon restaurant",
+    "beDriver": "Devenir livreur",
+    "login": "Connexion",
+    "welcome": "Salut, {name} 👋"
+  },
+  "nav": { "dashboard": "Tableau de bord", "logout": "Déconnexion", "login": "Connexion", "register": "S'inscrire" },
+  "status": {
+    "pending": "En attente", "accepted": "Accepté", "preparing": "En préparation",
+    "ready": "Prêt à récupérer", "assigned": "Assigné au livreur", "delivering": "En route",
+    "delivered": "Livré", "cancelled": "Annulé"
+  },
+  "hero": {
+    "tabs": {
+      "food": {
+        "label": "Livraison de repas",
+        "title": "Une petite faim ?",
+        "desc": "Un seul clic pour vous faire livrer vos plats préférés en moins de 30 minutes.",
+        "fieldLabel": "Adresse de livraison",
+        "placeholder": "Entrez votre adresse de livraison…",
+        "cta": "Voir les restaurants proches"
+      },
+      "owner": {
+        "label": "Restaurateurs",
+        "title": "Votre restaurant plus loin",
+        "desc": "Inscrivez votre restaurant et obtenez votre page dédiée sur yajib.app avec gestion complète du menu et des commandes.",
+        "fieldLabel": "Nom du restaurant",
+        "placeholder": "ex. Restaurant Al-Asil",
+        "cta": "Commencer l'inscription"
+      },
+      "driver": {
+        "label": "Devenir livreur",
+        "title": "Gagnez avec votre vélo",
+        "desc": "Recevez les commandes proches grâce à notre algorithme d'attribution intelligent et gagnez une commission par livraison.",
+        "fieldLabel": "Votre ville",
+        "placeholder": "ex. Riyad",
+        "cta": "Rejoindre en tant que livreur"
+      }
+    }
+  },
+  "simplify": {
+    "titleStart": "Ici pour ",
+    "titleHighlight": "simplifier",
+    "titleEnd": " votre quotidien",
+    "subtitle": "yajib est une super-app qui réunit restaurants, livreurs et clients, avec de nombreux services qui facilitent la vie de tous les jours.",
+    "welcome": "Bienvenue,",
+    "welcomeQuestion": "Que souhaitez-vous aujourd'hui ?",
+    "actions": ["Commander à manger", "Commander des courses", "Inscrire mon restaurant"],
+    "cta": "Commencer"
+  },
+  "services": {
+    "foodBadge": "Livraison de repas",
+    "foodTitle": "Commandez l'esprit tranquille",
+    "foodF1Title": "Rapide et simple",
+    "foodF1Desc": "Un clic dans l'appli et votre repas arrive en moins de 30 minutes, à toute heure.",
+    "foodF2Title": "Sûr et sécurisé",
+    "foodF2Desc": "Tous les restaurants et livreurs sont vérifiés, et votre commande est suivie en direct sur la carte.",
+    "foodF3Title": "Le juste prix",
+    "foodF3Desc": "Le prix est clair avant confirmation — pas de surprises, pas de frais cachés.",
+    "driverBadge": "Livreur partenaire",
+    "driverTitle": "Roulez avec nous et gagnez",
+    "driverF1Title": "Être votre propre patron",
+    "driverF1Desc": "Travaillez quand vous voulez, depuis n'importe quel quartier de votre ville.",
+    "driverF2Title": "Simple à utiliser",
+    "driverF2Desc": "Il vous suffit de l'appli yajib et de votre téléphone — commencez tout de suite.",
+    "driverF3Title": "Gagnez plus",
+    "driverF3Desc": "Une commission sur chaque commande, et des revenus qui augmentent chaque mois.",
+    "driverCta": "S'inscrire"
+  },
+  "stats": {
+    "titleLine1": "yajib grandit très vite.",
+    "titleLine2Start": "Vraiment ",
+    "titleLine2Highlight": "vite.",
+    "items": [
+      { "value": "8M+", "label": "téléchargements" },
+      { "value": "100k+", "label": "partenaires" },
+      { "value": "4k+", "label": "employés & livreurs" },
+      { "value": "45+", "label": "villes couvertes" }
+    ]
+  },
+  "restaurants": {
+    "badge": "Restaurants",
+    "title": "Restaurants disponibles",
+    "count": "{count} restaurants",
+    "empty": "Aucun restaurant pour le moment. Soyez le premier ! 🎉",
+    "open": "Ouvert",
+    "closed": "Fermé",
+    "browseMenu": "Voir le menu"
+  },
+  "owners": {
+    "badge": "Restaurateurs",
+    "title": "Inscrivez votre restaurant et développez-vous",
+    "f1Title": "Votre propre page",
+    "f1Desc": "Un lien yajib.app/r/votre-restaurant et un menu numérique complet pour votre marque.",
+    "f2Title": "Gestion en direct",
+    "f2Desc": "Gérez commandes et menu depuis le tableau de bord, sans complication.",
+    "f3Title": "Livraison incluse",
+    "f3Desc": "Nos livreurs apportent vos plats aux clients sans aucun effort de votre côté.",
+    "cta": "Inscription gratuite"
+  },
+  "customers": {
+    "badge": "Clients",
+    "title": "Commandez en trois gestes",
+    "f1Title": "Parcourez et choisissez",
+    "f1Desc": "Une large variété de restaurants, du fast-food à la cuisine saine.",
+    "f2Title": "Suivi en temps réel",
+    "f2Desc": "De la cuisine jusqu'à votre porte — suivez votre commande sur la carte.",
+    "f3Title": "Des offres en continu",
+    "f3Desc": "Promos et avis vous aident à bien choisir à chaque fois.",
+    "cta": "Commencer"
+  },
+  "track": {
+    "onTheWay": "Votre livreur est en route",
+    "etaLabel": "Arrivée estimée",
+    "etaValue": "12 min",
+    "detailsCta": "Détails de la commande"
+  },
+  "join": {
+    "talentsTitle": "Talents",
+    "talentsDesc": "Rejoignez l'une des startups de livraison qui grandissent le plus vite, avec une équipe ambitieuse.",
+    "talentsCta": "Voir les offres",
+    "driversTitle": "Partenaires (livreurs)",
+    "driversDesc": "Commencez à gagner en quelques jours : inscrivez-vous, formation rapide, et c'est parti.",
+    "driversCta": "Travailler avec nous",
+    "businessTitle": "Entreprises",
+    "businessDesc": "Vous avez un restaurant ou un commerce ? Inscrivez-vous sur yajib et boostez vos ventes dès la première semaine.",
+    "businessCta": "Inscrire mon business"
+  },
+  "moving": {
+    "groceryBadge": "Courses — bientôt",
+    "groceryTitle": "Faites vos courses depuis chez vous",
+    "groceryF1Title": "Rapide et simple",
+    "groceryF1Desc": "Remplissez votre panier en quelques clics et on vous le livre à la porte.",
+    "groceryF2Title": "Un large choix",
+    "groceryF2Desc": "Alimentation, pain, produits d'entretien, cosmétiques — tout ce qu'il vous faut.",
+    "groceryF3Title": "Des offres en continu",
+    "groceryF3Desc": "Des réductions et des économies chaque jour dans l'appli.",
+    "groceryCta": "Me prévenir au lancement",
+    "fleetBadge": "Solutions entreprise",
+    "fleetTitle": "Un système de flotte complet pour votre entreprise",
+    "fleetF1Title": "Fiabilité",
+    "fleetF1Desc": "Nos chauffeurs déplacent vos employés en sécurité et à l'heure.",
+    "fleetF2Title": "Un tableau de bord",
+    "fleetF2Desc": "Suivez et gérez votre flotte depuis un seul endroit, facilement.",
+    "fleetF3Title": "Coût flexible",
+    "fleetF3Desc": "Définissez votre budget et choisissez le service qui vous convient.",
+    "fleetCta": "Nous contacter",
+    "slogan": ["avancer", "ensemble"]
+  },
+  "social": {
+    "title": "Suivez yajib sur les réseaux sociaux",
+    "subtitle": "Suivez-nous et soyez les premiers informés des promos, réductions et nouveaux restaurants.",
+    "platforms": ["Facebook", "Instagram", "TikTok", "YouTube"]
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Nos services",
+        "links": [
+          { "label": "Livraison de repas", "href": "/#services" },
+          { "label": "Restaurants", "href": "/#restaurants" },
+          { "label": "Courses (bientôt)", "href": "/#business" }
+        ]
+      },
+      {
+        "title": "yajib",
+        "links": [
+          { "label": "À propos", "href": "#" },
+          { "label": "Carrières", "href": "#" },
+          { "label": "Contact", "href": "#" }
+        ]
+      },
+      {
+        "title": "Travailler avec nous",
+        "links": [
+          { "label": "Inscrire mon restaurant", "href": "/register?role=owner" },
+          { "label": "Devenir livreur", "href": "/register?role=driver" },
+          { "label": "Solutions entreprise", "href": "/#business" }
+        ]
+      }
+    ],
+    "country": "Arabie Saoudite",
+    "language": "Français",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Politique de cookies"
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "loginSubtitle": "Content de vous revoir 👋",
+    "registerTitle": "Créer un compte",
+    "registerSubtitle": "Choisissez votre type de compte et commencez en une minute",
+    "phone": "Numéro de téléphone",
+    "phonePlaceholder": "05xxxxxxxx",
+    "password": "Mot de passe",
+    "name": "Nom complet",
+    "namePlaceholder": "ex. Ahmed Mohamed",
+    "restaurantName": "Nom du restaurant",
+    "cuisine": "Type de cuisine (ex. grillades, pizza)",
+    "login": "Se connecter",
+    "register": "Créer le compte",
+    "noAccount": "Pas encore de compte ?",
+    "createAccount": "Créez-en un",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "loginLink": "Connexion",
+    "loginFailed": "Échec de la connexion",
+    "registerFailed": "Échec de l'inscription",
+    "roleCustomer": "Client",
+    "roleOwner": "Restaurateur",
+    "roleDriver": "Livreur"
+  },
+  "rpage": {
+    "openNow": "Ouvert",
+    "closed": "Fermé",
+    "emptyMenu": "Le menu est vide pour le moment.",
+    "loginLink": "Connectez-vous en tant que client",
+    "loginPrompt": "pour finaliser votre commande.",
+    "onlyCustomers": "Seuls les comptes clients peuvent commander.",
+    "add": "Ajouter",
+    "unavailable": "Indisponible",
+    "addressPlaceholder": "Adresse de livraison (optionnelle)",
+    "orderNow": "Commander",
+    "sending": "Envoi…",
+    "sent": "Commande envoyée",
+    "feeNote": "Les frais de livraison sont calculés selon la distance (algorithme Haversine).",
+    "orderFailed": "Échec de la création de la commande",
+    "backToRestaurants": "Tous les restaurants"
+  },
+  "ordersPage": {
+    "title": "Mes commandes",
+    "subtitle": "Suivez vos commandes en temps réel, étape par étape.",
+    "empty": "Aucune commande pour le moment.",
+    "browse": "Voir les restaurants",
+    "distance": "Distance",
+    "deliveryFee": "Frais de livraison",
+    "total": "Total"
+  }
+}
